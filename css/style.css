@@ -1,0 +1,57 @@
+div.common{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    display: inline-block;
+}
+div.a{background-color: Chocolate;
+    line-height: 300px;
+    border-radius: 150px;
+    border: 10px solid blue;
+}
+div.b{background-color: Chocolate;
+    line-height: 300px;
+    border-radius: 150px;
+    border: 10px solid peru;
+}
+div.c{ background-color: Chocolate;
+    line-height: 300px;
+    border-radius: 150px;
+    border: 10px solid mediumseagreen;
+}
+div.d{background-color: Chartreuse;
+    line-height: 300px;
+    border-radius: 150px;
+    border: 10px solid forestgreen;
+}
+div.e{background-color: BlueViolet;
+    line-height: 300px;
+    border-radius: 150px;
+    border: 10px solid chartreuse;
+}
+div.f{background-color: Brown;
+    line-height: 300px;
+    border-radius: 150px;
+    border: 10px solid darkgoldenrod;
+}
+div.g{background-color: Blue;
+    line-height: 300px;
+    border-radius: 150px;
+    border-radius: 150px;
+    border: 10px solid mediumblue;
+}
+div.h{background-color: Aqua;
+    line-height: 300px;
+    border-radius: 150px;
+    border: 10px solid aqua;
+}
+div.i{border: Black;
+    line-height: 300px;
+    border-radius: 150px;
+    border: 10px solid navy;
+}
+div.j{background-color: Aquamarine;
+    line-height: 300px;
+    border: 10px solid saddlebrown;
+}
